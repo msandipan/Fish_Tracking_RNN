@@ -1,4 +1,0 @@
-model_checkpoint_path: "/data/Sandipan/Data/Tracking 2F/Videos/session_test/accumulation_0/softmax/softmax.ckpt-105"
-all_model_checkpoint_paths: "/data/Sandipan/Data/Tracking 2F/Videos/session_test/accumulation_0/softmax/softmax.ckpt-65"
-all_model_checkpoint_paths: "/data/Sandipan/Data/Tracking 2F/Videos/session_test/accumulation_0/softmax/softmax.ckpt-67"
-all_model_checkpoint_paths: "/data/Sandipan/Data/Tracking 2F/Videos/session_test/accumulation_0/softmax/softmax.ckpt-105"
